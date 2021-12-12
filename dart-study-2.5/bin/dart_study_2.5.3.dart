@@ -3,7 +3,7 @@ import 'dart:io';
 void main(List<String> arguments) {
   var retry = true;
   var amount = 0;
-  print("2.5.1");
+  print("2.5.3");
   while(retry){
     print('Введите число для сложения!');
     var s = stdin.readLineSync();
